@@ -15,7 +15,8 @@ namespace AmosConsole
             Console.WriteLine("Press 1 for Addition");
             Console.WriteLine("Press 2 for Subtraction");
             Console.WriteLine("Press 3 for Multiplication");
-            Console.WriteLine("Press 4 for Division \n");
+           // changed the menu number 
+	    Console.WriteLine("Press 5 for Division \n");
             int action = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter 1st input");
             int input_1 = Convert.ToInt32(Console.ReadLine());
