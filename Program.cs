@@ -10,7 +10,8 @@ namespace AmosConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the action to be performed");
+           // Calculator Program with 2 Devopers 
+		Console.WriteLine("Enter the action to be performed");
             Console.WriteLine("Press 1 for Addition");
             Console.WriteLine("Press 2 for Subtraction");
             Console.WriteLine("Press 3 for Multiplication");
