@@ -40,7 +40,7 @@ namespace AmosConsole
                         result = Multiplication(input_1, input_2);
                         break;
                     }
-                case 4:
+                case 5: // corrected menu number from 4 to 5 (ubuntu)
                     {
                         result = Division(input_1, input_2);
                         break;
